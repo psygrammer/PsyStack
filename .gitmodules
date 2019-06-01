@@ -1,3 +1,6 @@
 [submodule "HPython/high_performance_python"]
 	path = HPython/high_performance_python
 	url = https://github.com/mynameisfiber/high_performance_python.git
+[submodule "HPython/high_performance_python3"]
+	path = HPython/high_performance_python3
+	url = https://github.com/scari/high_performance_python.git
