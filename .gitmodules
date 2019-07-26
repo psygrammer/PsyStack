@@ -7,3 +7,6 @@
 [submodule "HandsOn_ML2/handson-ml2"]
 	path = HandsOn_ML2/handson-ml2
 	url = https://github.com/ageron/handson-ml2.git
+[submodule "Ray/tutorial"]
+	path = Ray/tutorial
+	url = https://github.com/ray-project/tutorial.git
