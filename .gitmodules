@@ -10,3 +10,6 @@
 [submodule "Ray/tutorial"]
 	path = Ray/tutorial
 	url = https://github.com/ray-project/tutorial.git
+[submodule "MSA/microservices-in-action"]
+	path = MSA/microservices-in-action
+	url = https://github.com/morganjbruce/microservices-in-action.git
