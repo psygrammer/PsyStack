@@ -16,3 +16,6 @@
 [submodule "AWSLambda/AWS_Lambda_in_Action"]
 	path = AWSLambda/AWS_Lambda_in_Action
 	url = https://github.com/danilop/AWS_Lambda_in_Action.git
+[submodule "AWSLambda/awslambda"]
+	path = AWSLambda/awslambda
+	url = https://github.com/noahgift/awslambda.git
