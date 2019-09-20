@@ -13,3 +13,6 @@
 [submodule "MSA/microservices-in-action"]
 	path = MSA/microservices-in-action
 	url = https://github.com/morganjbruce/microservices-in-action.git
+[submodule "AWSLambda/AWS_Lambda_in_Action"]
+	path = AWSLambda/AWS_Lambda_in_Action
+	url = https://github.com/danilop/AWS_Lambda_in_Action.git
